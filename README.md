@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Platform-iOS-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Platform"/>
   <img src="https://img.shields.io/badge/Swift-5.9+-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/SwiftUI-Enabled-blue?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
+  <img src="https://img.shields.io/badge/License-GNU_GPL_v3-blue?style=for-the-badge" alt="License"/>
 </p>
 
 ### 🚀 A lightweight iOS application for real-time device monitoring
@@ -269,9 +269,9 @@ Contributions are **always welcome**!
 
 <div align="center">
 
-This project is licensed under the **MIT License**
+This project is licensed under the **GNU General Public License v3.0**
 
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
+<img src="https://img.shields.io/badge/License-GNU_GPL_v3-blue?style=for-the-badge" alt="License"/>
 
 See `LICENSE` file for more information.
 
